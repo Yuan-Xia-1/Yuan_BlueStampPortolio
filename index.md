@@ -7,7 +7,7 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](Summer project.PNG)
+![Headstone Image](Summer.pdf)
   
 # Final Milestone
 For your final milestone, explain the outcome of your project. Key details to include are:
@@ -43,7 +43,7 @@ The first project that I finished at BlueStamp is called Jitterbug. The reason w
 
 https://tinyurl.com/Yuans-video
 
-Summer project.PNG
+Summer.pdf
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
