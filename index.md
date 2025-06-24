@@ -32,11 +32,17 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+For the first milestone of my Firewalker Sneakers project, I focused on building and calibrating the pressure sensors that will detect when I step down. I began by cutting two heel-shaped pieces of Velostat, one for each shoe. Then, I taped loops of conductive thread onto one side of each piece, making sure to leave long thread tails (about 18 inches) for later connection. After flipping the Velostat over, I added a second loop of conductive thread on each, keeping the tails on the same side but spaced at least two inches apart. This creates a sensor that changes resistance when pressure is applied.
+
+Next, I tested the sensors by hooking them up to the FLORA board using alligator clips and uploading sample code to the Arduino IDE. I opened the serial monitor and pressed on the sensor with a blunt object, like a roll of tape, to observe the changing values. This step helped me confirm that the sensor was working and responding to pressure as expected. Completing this milestone was essential because it laid the foundation for detecting foot movement, which will later trigger the LED light effects in the shoes.
+
+Challenges Faced:
+
+Handling Conductive Thread: The conductive thread was difficult to work with because it frays easily and can tangle while sewing or threading through the Velostat. Making clean, secure connections took time and precision.
+
+Proper Sensor Alignment: Ensuring the two loops of thread were properly aligned on opposite sides of the Velostat without touching each other was tricky. Any overlap could cause a short circuit or incorrect sensor readings.
+
+Securing Components: Taping the thread firmly to the Velostat while maintaining good electrical contact was a challenge. If the thread wasn’t tight or placed correctly, the sensor wouldn’t respond consistently to pressure.
 
 # Starter Project - Jitterbug
 The first project that I finished at BlueStamp is called Jitterbug. The reason why choose this starter project is because it likes very fun when I was selecting the item. There is only one start botton on the project, and there is string that can make the bug moving once you press the start botton. I successfully finished my start project. however, I still need to be careful which line is positive and which line is negative.
