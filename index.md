@@ -1,5 +1,5 @@
-# Project Name Here
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+# Firewalker Sneakers
+The Firewalker Sneakers project is a creative wearable tech build that turns ordinary shoes into interactive, light-up sneakers. By using pressure-sensitive sensors made from Velostat and conductive thread, the shoes detect each step and trigger colorful LED lights (NeoPixels) controlled by a FLORA microcontroller. When the user walks, the LEDs light up in real-time, creating a "fire-like" glow effect beneath the feet. This project combines electronics, coding, and design, making it a fun and educational way to explore how technology can be embedded into clothing and accessories.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
