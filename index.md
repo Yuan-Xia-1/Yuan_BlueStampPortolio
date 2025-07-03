@@ -5,8 +5,6 @@ The Firewalker Sneakers project is a creative wearable tech build that turns ord
 |:--:|:--:|:--:|:--:|
 | Yuan X | Carlmont high school | Math/Physics | Incoming Senior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
 ![Headstone Image](YuanX.png)
   
 # Final Milestone
@@ -36,7 +34,7 @@ For the first milestone of my Firewalker Sneakers project, I focused on building
 
 Next, I tested the sensors by hooking them up to the FLORA board using alligator clips and uploading sample code to the Arduino IDE. I opened the serial monitor and pressed on the sensor with a blunt object, like a roll of tape, to observe the changing values. This step helped me confirm that the sensor was working and responding to pressure as expected. Completing this milestone was essential because it laid the foundation for detecting foot movement, which will later trigger the LED light effects in the shoes.
 
-Challenges Faced:
+# Challenges Faced
 
 Handling Conductive Thread: The conductive thread was difficult to work with because it frays easily and can tangle while sewing or threading through the Velostat. Making clean, secure connections took time and precision.
 
@@ -48,12 +46,6 @@ Securing Components: Taping the thread firmly to the Velostat while maintaining 
 The first project that I finished at BlueStamp is called Jitterbug. The reason why choose this starter project is because it likes very fun when I was selecting the item. There is only one start botton on the project, and there is string that can make the bug moving once you press the start botton. I successfully finished my start project. however, I still need to be careful which line is positive and which line is negative.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WTMthDaV5aw?si=hRhfK89XkzoWDurS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
