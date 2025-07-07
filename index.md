@@ -31,8 +31,6 @@ Misconnecting the NeoPixel strip to the wrong pins on the FLORA board can preven
 Power Limitations
 NeoPixel strips require sufficient power. Drawing too much current from the USB port may cause flickering, dim lights, or no lights at all.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 # First Milestone
 For the first milestone of my Firewalker Sneakers project, I focused on building and calibrating the pressure sensors that will detect when I step down. I began by cutting two heel-shaped pieces of Velostat, one for each shoe. Then, I taped loops of conductive thread onto one side of each piece, making sure to leave long thread tails (about 18 inches) for later connection. After flipping the Velostat over, I added a second loop of conductive thread on each, keeping the tails on the same side but spaced at least two inches apart. This creates a sensor that changes resistance when pressure is applied.
 
