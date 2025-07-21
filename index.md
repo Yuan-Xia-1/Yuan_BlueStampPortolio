@@ -93,12 +93,12 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| FLORA - Wearable electronic platform | Control the light | $14 | <a href="https://www.adafruit.com/product/659"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Adafruit NeoPixel Digital RGB LED Strip | Having the light | $99 | <a href="https://www.adafruit.com/product/1138"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 3 x AAA Battery Holder with On/Off Switch | Power | $2 | <a href="https://www.adafruit.com/product/727"> Link </a> |
 |:--:|:--:|:--:|:--:|
 
-# Other Resources/Examples
+
 
