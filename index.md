@@ -15,7 +15,7 @@ The final milestone for the FireWalker Sneakers project involves fully assemblin
 
 One major challenge is finding enough space inside the shoe to properly fit the components like the battery, microcontroller, and wiring without making the shoe uncomfortable. Keeping the wires neat and secure is also important, as loose or tangled wires can interfere with walking or cause the system to malfunction. It can be tricky to firmly attach the LEDs and pressure sensors so they stay in place during movement, especially if the glue or tape doesn’t hold well. Another difficulty is maintaining the comfort of the shoe after installing the electronics, since bulky parts can press into the foot. Finally, testing the full system may reveal issues like poor connections or faulty sensor readings, which can be tough to fix once everything is in place.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xlA-_46Ok_g?si=ofwPn-hitNsVlZlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GivITY8fi4A?si=uvBKFcgyUjp1AWk-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Second Milestone
 
