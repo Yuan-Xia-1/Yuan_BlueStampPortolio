@@ -55,8 +55,9 @@ The first project that I finished at BlueStamp is called Jitterbug. The reason w
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WTMthDaV5aw?si=hRhfK89XkzoWDurS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img src="project.jpg" width="50%" height="50%">
-# Schematics 
 
+# Schematics 
+<img src="image.png" width="50%" height="50%">
 # Code
 
 ```const int analogInPin = A9;  // Analog input pin that the potentiometer is attached to
