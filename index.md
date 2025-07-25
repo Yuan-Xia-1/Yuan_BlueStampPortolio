@@ -58,9 +58,11 @@ The first project that I finished at BlueStamp is called Jitterbug. The reason w
 
 # Schematics 
 <img src="image.png" width="50%" height="50%">
+
 # Code
 
-```const int analogInPin = A9;  // Analog input pin that the potentiometer is attached to
+```c++
+const int analogInPin = A9;  // Analog input pin that the potentiometer is attached to
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(10, 6, NEO_GRB + NEO_KHZ800);
 int sensorValue = 0;        // value read from the pot
 
